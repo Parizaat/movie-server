@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(36, 33, 33);
+   
+
+}
+.one{
+    height: 100px;
+    width: 1300px;
+    margin: auto;
+    
+    
+   
+}
+.two{
+    width: 318px;
+    height: 80px;
+    font-size: large;
+    color: rgb(11, 236, 199);
+    float: left;
+    padding-top: 0px ;
+    padding-left: 0px;
+
+}
+    
+.three{
+    width: 318px;
+    height: 40px;
+    text-align: center;
+    font-size: large;
+    color: rgb(221, 208, 208);
+   
+    float: left;
+} 
+.four{
+    width: 318px;
+    height: 40px;
+    text-align: center;
+    font-size: large;
+    color: rgb(221, 208, 208);
+    
+    float: left;
+}
+
+.five{
+    width: 318px;
+    height: 40px;
+    text-align: center;
+    font-size: large;
+    color: rgb(221, 208, 208);
+    float: left;
+}
+button {
+    height: 45px;
+    width: 80px;
+    text-align: center;
+    
+}
+input{
+    height: 35px;
+    width: 880px;
+    background-color: rgb(218, 227, 235);
+}
+.div2{
+    height: 500px;
+    width: auto;
+    
+}
+
+.img1{
+    height: 145px;
+    width: 110px;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.img2{
+    height: 145px;
+    width: 110px;
+    float: left;
+    text-align: center;
+    color: white;
+}
+
+.img3{
+    height: 145px;
+    width: 110px;
+    float: left;
+    text-align: center;
+    color: white;
+}
